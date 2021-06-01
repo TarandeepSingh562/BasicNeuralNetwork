@@ -1,0 +1,1 @@
+{"__NNData__": {"_train_factor": 0.9, "_train_indices": [], "_test_indices": [], "_train_pool": {"__deque__": []}, "_test_pool": {"__deque__": []}, "_features": {"__NDarray__": []}, "_labels": {"__NDarray__": []}}}
